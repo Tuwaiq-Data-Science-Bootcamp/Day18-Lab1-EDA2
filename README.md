@@ -8,7 +8,7 @@ Spearman’s correlation coefficient (named for Charles Spearman) is a technique
    - Data is preferred to be monotomic (for better results)
    
 ## Applicability:
-  This technique cab be be used on continuous data as long as it is ranked.
+  This technique can be be used on continuous data as long as it is ranked.
   
   
   ![Screenshot_20221116-121706_Chrome](https://user-images.githubusercontent.com/109832303/202139667-9c9d85f2-fe4b-4dea-8c4f-551f5e10ba96.jpg)
