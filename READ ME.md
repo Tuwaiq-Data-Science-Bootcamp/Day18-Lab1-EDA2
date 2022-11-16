@@ -1,6 +1,3 @@
-# Day18-Lab1-EDA2
-
-
  ## Logistic regression
  Regression analysis is a type of predictive modeling technique used to find the relationship between a dependent variable and one or more independent variables.
  
