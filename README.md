@@ -1,6 +1,6 @@
 
 # Spearmans Rank-Order Correlation:
-Spearman’s correlation coefficient (named for Charles Spearman) is a technique used to find the correlation between two data samples. Is is available through the Scipy python library.
+Spearman’s correlation coefficient (named for Charles Spearman) is a technique used to find the correlation between two data samples. It is available through the Scipy python library.
 
 ## Prerequisites: 
 
